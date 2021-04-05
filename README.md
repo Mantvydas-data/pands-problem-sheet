@@ -41,7 +41,10 @@ Week 7:
     Es
         A program that reads a text file and outputs the number of e's it contains.
     References:
-    https://www.w3schools.com/python/python_strings_methods.asp
+    https://www.w3schools.com/python/python_strings_methods.asp 
+    https://www.tutorialspoint.com/How-to-read-a-file-from-command-line-using-Python
+    https://stackoverflow.com/questions/8280250/how-to-open-files-given-as-command-line-arguments-in-python
+    
 
 Week 8:
     Plottask

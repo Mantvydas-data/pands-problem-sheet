@@ -4,7 +4,7 @@
 weight = float(input("Please input your weight in kg: "))
 height = int(input("Please input your height in cm: "))/100
 BMI = weight / height**2
-print("Your BMI is " + str(BMI))
+print("Your BMI is " + str(round(BMI, 2)))
 
 #Adding statements to also advise on BMI health ranges
 #https://www.cancer.org/cancer/cancer-causes/diet-physical-activity/body-weight-and-cancer-risk/adult-bmi.html
