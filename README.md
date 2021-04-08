@@ -35,7 +35,10 @@ Week 5:
 Week 6:
     Squareroot
         A program that takes a positive floating-point number as input and outputs an approximation of its square root. Built in functions not to be used (x ** .5 or math.sqrt(x)).
-    References:
+    References: 
+    https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
+    https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
+    https://www.goeduhub.com/3398/python-program-to-find-the-square-root-number-newtons-method
 
 Week 7:
     Es
