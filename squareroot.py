@@ -1,7 +1,7 @@
 # A program that takes a positive floating-point number as input and outputs an approximation of its square root.
 # Author: Mantvydas Jokubaitis
 
-# Presetting tolerance for calculation
+# Presetting aproximation tolerance for calculation 
 tolerance=0.01
 # Formula to calculate sqrt using Newton's method
 def sqrt(num):

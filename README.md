@@ -53,4 +53,7 @@ Week 8:
     Plottask
         A program that displays a plot of the functions f(x)=x, g(x)=x^2 and h(x)=x^3
     References:
-
+    https://www.w3schools.com/python/matplotlib_plotting.asp
+    https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+    https://scriptverse.academy/tutorials/python-matplotlib-plot-straight-line.html
+    https://scriptverse.academy/tutorials/python-matplotlib-plot-function.html
